@@ -41,5 +41,4 @@ This project is designed to:
 
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openai-status-monitor.git
-cd openai-status-monitor
+
